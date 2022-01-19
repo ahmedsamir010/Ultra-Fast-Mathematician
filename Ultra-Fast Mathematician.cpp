@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿//اذا مررت من هنا فادعوا الله ان ييسر لي امري
+//Link Problem==>https://codeforces.com/problemset/problem/61/A
+#include <iostream>
 #include<iomanip>
 #include<cmath>
 #include<string>
